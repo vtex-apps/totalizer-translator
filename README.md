@@ -9,7 +9,7 @@ Through **vtex.io**:
 Add the following dependency to your `manifest.json` dependencies:
 
 ```
-"vtex.totalizers-translator": "1.x"
+"vtex.totalizer-translator": "1.x"
 ```
 
 ## Usage
