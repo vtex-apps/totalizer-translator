@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Changed
+
+- Use render 3 and messages 1
+
+## [1.0.0] - 2019-01-16
+
 ### Added
 
 - First release
