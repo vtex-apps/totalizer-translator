@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "totalizer-translator",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "title": "A React component that renders translated totalizer property from Checkout's OrderForm",
   "description": "",
   "defaultLocale": "pt-BR",
