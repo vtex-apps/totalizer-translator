@@ -25,11 +25,31 @@ import TranslateTotalizer from 'vtex.totalizer-translator/TranslateTotalizer'
 
 <TranslateTotalizer id="Foo Custom" />
 // Foo Custom
+
+const totalizerObject = {
+  id: 'CustomTax',
+  name: 'COFINS-RETIDO',
+  value: 29.97,
+}
+
+<TranslateTotalizer totalizer={totalizerObject}/>
+// COFINS-RETIDO
 ```
 
 ### Params
 
 - **id** | Type `string` | Id of the totalizer to be translated
+- **totalizer** | Type `TotalizerShape` | The totalizer object
+
+**TotalizerShape**:
+
+```ts
+{
+  id: string
+  name: string
+  value: number
+}
+```
 
 ### Returns
 
