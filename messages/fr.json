@@ -1,7 +1,7 @@
 {
-  "totalizers.Discounts": "Rabais",
-  "totalizers.Items": "Sous-total",
-  "totalizers.Shipping": "Expédition",
-  "totalizers.Tax": "Taxes",
-  "totalizers.Interest": "Intérêt"
+  "store/totalizers.Discounts": "Rabais",
+  "store/totalizers.Items": "Sous-total",
+  "store/totalizers.Shipping": "Expédition",
+  "store/totalizers.Tax": "Taxes",
+  "store/totalizers.Interest": "Intérêt"
 }
