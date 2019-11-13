@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [2.1.0] - 2019-09-26
+
+### Added
+
+- Support for passing the whole totalizer object (with name and id).
+
+### Changed
+
+- Translate totalizer if it's id is one of a specific set of known totalizers.
+- Use the totalizer name if the id is not in the known totalizers enum.
+
 ## [2.0.0] - 2019-02-20
 
 ### Changed
