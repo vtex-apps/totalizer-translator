@@ -50,7 +50,7 @@ export const nonStoreKnownTotalizers = defineMessages({
 const TranslateTotal = ({ intl, id, totalizer, nonStorePage }) => {
   if (totalizer && totalizer.id) id = totalizer.id
 
-  if(nonStorePage && id in nonStoreKnownTotalizers) return intl.formatMessage(nonStoreKnownTotalizers[id])
+  if (nonStorePage && id in nonStoreKnownTotalizers) return intl.formatMessage(nonStoreKnownTotalizers[id])
 
   // if the totalizer is known, translate it
   if (id in knownTotalizers) return intl.formatMessage(knownTotalizers[id])
