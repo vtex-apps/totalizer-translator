@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- **nonStorePage** prop to `TranslateTotalizer`.
+
 ## [2.2.0] - 2020-07-21
 
 ### Added
