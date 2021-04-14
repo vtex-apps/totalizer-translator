@@ -24,8 +24,33 @@ export const knownTotalizers = defineMessages({
   },
 })
 
-const TranslateTotal = ({ intl, id, totalizer }) => {
+export const nonStoreKnownTotalizers = defineMessages({
+  Discounts: {
+    id: 'totalizers.Discounts',
+    defaultMessage: 'Discounts',
+  },
+  Items: {
+    id: 'totalizers.Items',
+    defaultMessage: 'Items',
+  },
+  Shipping: {
+    id: 'totalizers.Shipping',
+    defaultMessage: 'Shipping',
+  },
+  Tax: {
+    id: 'totalizers.Tax',
+    defaultMessage: 'Tax',
+  },
+  Interest: {
+    id: 'totalizers.Interest',
+    defaultMessage: 'Interest',
+  },
+})
+
+const TranslateTotal = ({ intl, id, totalizer, nonStorePage }) => {
   if (totalizer && totalizer.id) id = totalizer.id
+
+  if (nonStorePage && id in nonStoreKnownTotalizers) return intl.formatMessage(nonStoreKnownTotalizers[id])
 
   // if the totalizer is known, translate it
   if (id in knownTotalizers) return intl.formatMessage(knownTotalizers[id])
@@ -45,6 +70,7 @@ TranslateTotal.propTypes = {
     name: PropTypes.string,
     value: PropTypes.number,
   }),
+  nonStorePage: PropTypes.bool // This is used in case that the comoponent is used outsite the store context.
 }
 
 export default injectIntl(TranslateTotal)

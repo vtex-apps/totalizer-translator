@@ -3,5 +3,10 @@
   "store/totalizers.Items": "Subtotal",
   "store/totalizers.Shipping": "Costo del envío",
   "store/totalizers.Tax": "Impuestos",
-  "store/totalizers.Interest": "Interés"
+  "store/totalizers.Interest": "Interés",
+  "totalizers.Discounts": "Descuentos",
+  "totalizers.Items": "Subtotal",
+  "totalizers.Shipping": "Costo del envío",
+  "totalizers.Tax": "Impuestos",
+  "totalizers.Interest": "Interés"
 }
