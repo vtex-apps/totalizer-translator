@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added
 
-- Crowdin.file for crowdin integration.
+- Crowdin configuration file.
 
 ## [2.2.1] - 2021-04-14
 
