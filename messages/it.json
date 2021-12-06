@@ -2,6 +2,6 @@
   "store/totalizers.Discounts": "Sconto",
   "store/totalizers.Items": "Subtotale",
   "store/totalizers.Shipping": "Spedizione",
-  "store/totalizers.Tax": "Le tasse",
+  "store/totalizers.Tax": "Tasse",
   "store/totalizers.Interest": "Tasso d'interesse"
 }
