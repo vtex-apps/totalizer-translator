@@ -1,0 +1,12 @@
+{
+  "store/totalizers.Discounts": "الخصم",
+  "store/totalizers.Items": "المجموع الفرعي",
+  "store/totalizers.Shipping": "الشحن",
+  "store/totalizers.Tax": "الضرائب",
+  "store/totalizers.Interest": "الفائدة",
+  "totalizers.Discounts": "الخصم",
+  "totalizers.Items": "المجموع الفرعي",
+  "totalizers.Shipping": "الشحن",
+  "totalizers.Tax": "الضرائب",
+  "totalizers.Interest": "الفائدة"
+}
