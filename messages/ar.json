@@ -1,6 +1,6 @@
 {
   "totalizers.Discounts": "خصم",
-  "totalizers.Items": "المجموع الفرعي",
+  "totalizers.Items": "تكلفة الطلب",
   "totalizers.Shipping": "الشحن",
   "totalizers.Tax": "الضرائب",
   "totalizers.Interest": "الفائدة"
