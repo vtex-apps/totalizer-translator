@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - Czech and Slovak translations.
 
+## [1.2.1] - 2022-03-17
+
 ### Fixed
 
 - Arabic translation.
@@ -22,7 +24,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Arabic translation.
 
 ## [1.1.1] - 2021-12-06
-
 
 ### Fixed
 
