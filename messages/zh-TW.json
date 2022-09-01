@@ -1,0 +1,12 @@
+{
+  "store/totalizers.Discounts": "折扣",
+  "store/totalizers.Items": "小計",
+  "store/totalizers.Shipping": "發貨",
+  "store/totalizers.Tax": "稅費",
+  "store/totalizers.Interest": "興趣",
+  "totalizers.Discounts": "折扣",
+  "totalizers.Items": "小計",
+  "totalizers.Shipping": "發貨",
+  "totalizers.Tax": "稅費",
+  "totalizers.Interest": "興趣"
+}
