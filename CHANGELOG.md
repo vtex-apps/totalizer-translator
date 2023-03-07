@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## Added
+
+- `Changes Total` id internationalization.
+
 ## [2.5.0] - 2022-12-22
 
 ### Added
