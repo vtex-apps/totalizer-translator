@@ -4,9 +4,11 @@
   "store/totalizers.Shipping": "Cost de l'enviament",
   "store/totalizers.Tax": "Impostos",
   "store/totalizers.Interest": "Interès",
+  "store/totalizers.Change": " ",
   "totalizers.Discounts": "Descomptes",
   "totalizers.Items": "Subtotal",
   "totalizers.Shipping": "Cost de l'enviament",
   "totalizers.Tax": "Impostos",
-  "totalizers.Interest": "Interès"
+  "totalizers.Interest": "Interès",
+  "totalizers.Change": " "
 }

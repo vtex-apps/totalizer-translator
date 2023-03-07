@@ -4,9 +4,11 @@
   "store/totalizers.Shipping": "Pengiriman",
   "store/totalizers.Tax": "Pajak",
   "store/totalizers.Interest": "Bunga",
+  "store/totalizers.Change": " ",
   "totalizers.Discounts": "Diskon",
   "totalizers.Items": "Subtotal",
   "totalizers.Shipping": "Pengiriman",
   "totalizers.Tax": "Pajak",
-  "totalizers.Interest": "Bunga"
+  "totalizers.Interest": "Bunga",
+  "totalizers.Change": " "
 }
