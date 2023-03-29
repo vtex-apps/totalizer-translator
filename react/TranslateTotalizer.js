@@ -24,7 +24,7 @@ export const knownTotalizers = defineMessages({
   },
   Change: {
     id: 'store/totalizers.Change',
-    defaultMessage: 'Changes Total',
+    defaultMessage: 'Total of changes',
   },
 })
 
@@ -51,7 +51,7 @@ export const nonStoreKnownTotalizers = defineMessages({
   },
   Change: {
     id: 'totalizers.Change',
-    defaultMessage: 'Changes Total',
+    defaultMessage: 'Total of changes',
   },
 })
 

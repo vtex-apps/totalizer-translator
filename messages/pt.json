@@ -4,11 +4,11 @@
   "store/totalizers.Shipping": "Entrega",
   "store/totalizers.Tax": "Impostos",
   "store/totalizers.Interest": "Juros",
-  "store/totalizers.Change": " ",
+  "store/totalizers.Change": "Total das alterações",
   "totalizers.Discounts": "Descontos",
   "totalizers.Items": "Subtotal",
   "totalizers.Shipping": "Entrega",
   "totalizers.Tax": "Impostos",
   "totalizers.Interest": "Juros",
-  "totalizers.Change": " "
+  "totalizers.Change": "Total das alterações"
 }
