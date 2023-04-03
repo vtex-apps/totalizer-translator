@@ -22,6 +22,10 @@ export const knownTotalizers = defineMessages({
     id: 'store/totalizers.Interest',
     defaultMessage: 'Interest',
   },
+  Change: {
+    id: 'store/totalizers.Change',
+    defaultMessage: 'Total of changes',
+  },
 })
 
 export const nonStoreKnownTotalizers = defineMessages({
@@ -44,6 +48,10 @@ export const nonStoreKnownTotalizers = defineMessages({
   Interest: {
     id: 'totalizers.Interest',
     defaultMessage: 'Interest',
+  },
+  Change: {
+    id: 'totalizers.Change',
+    defaultMessage: 'Total of changes',
   },
 })
 
