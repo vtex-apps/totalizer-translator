@@ -1,7 +1,7 @@
 {
-  "store/totalizers.Discounts": "Sconto",
-  "store/totalizers.Items": "Subtotale",
-  "store/totalizers.Shipping": "Spedizione",
-  "store/totalizers.Tax": "Tasse",
-  "store/totalizers.Interest": "Tasso d'interesse"
+  "totalizers.Discounts": "Sconti",
+  "totalizers.Items": "Subtotale",
+  "totalizers.Shipping": "Spedizione",
+  "totalizers.Tax": "Tasse",
+  "totalizers.Interest": "Interessi"
 }
