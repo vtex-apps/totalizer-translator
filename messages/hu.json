@@ -1,0 +1,14 @@
+{
+  "store/totalizers.Discounts": "Kedvezmény",
+  "store/totalizers.Items": "Részösszeg",
+  "store/totalizers.Shipping": "Szállítás",
+  "store/totalizers.Tax": "ÁFA",
+  "store/totalizers.Interest": "Kamat",
+  "store/totalizers.Change": "Összes módosítás",
+  "totalizers.Discounts": "Kedvezmény",
+  "totalizers.Items": "Részösszeg",
+  "totalizers.Shipping": "Szállítás",
+  "totalizers.Tax": "ÁFA",
+  "totalizers.Interest": "Kamat",
+  "totalizers.Change": "Összes módosítás"
+}
